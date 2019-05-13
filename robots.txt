@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepaefeiha.hotcrazyquiz.com/sitemap.xml
